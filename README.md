@@ -22,21 +22,21 @@ This approach demonstrates how multi-threading can improve computation efficienc
 
 ---
 
-### 💻 Compilation
+### Compilation
 To compile the program, run:
 
     gcc -std=c99 -pthread -o matrix matrix.c -I.
 
 ---
 
-### ▶️ Execution
+### Execution
 To execute the program, run:
 
     ./matrix
 
 ---
 
-### 📤 Output Example
+### Output Example
     Matrix A:
     ... (20x20 random numbers)
 
